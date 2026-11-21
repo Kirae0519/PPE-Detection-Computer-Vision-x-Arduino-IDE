@@ -1,0 +1,22 @@
+# Model weights (downloaded automatically on first run)
+models/
+*.pt
+
+# Runtime audit logs & captured snapshots
+logs/
+
+# Evaluation outputs
+evaluation/results/
+
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Backups & OS files
+*.bak
+.DS_Store
+Thumbs.db
